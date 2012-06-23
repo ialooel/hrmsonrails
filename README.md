@@ -1,4 +1,4 @@
 hrmsonrails
 ===========
 
-Human Resource Management System on Rails
+Human Resource Management System (HRMS)  on Rails
